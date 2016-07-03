@@ -4,5 +4,6 @@ public class DataTypes {
 		String a="word";
 		float b=10.12f;
 		System.out.println("String value="+a+" Decimal value="+b);
+		//h
 		}
 }
